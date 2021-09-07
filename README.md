@@ -2,9 +2,6 @@
 
 Include exercises for tensorflow and pytorch.
 
-Project_NYCTaxiFares.ipynb is in pytorch
+Project_NYCTaxiFares.ipynb is in Pytorch
 
-The csv files are in data folder.
-
-
-Recommend to run in colab.
+Regression_Model_And_Predict_Medical_Cost.ipynb is in Tensorflow
